@@ -134,8 +134,8 @@ The bundled source is based on Ultralytics `8.0.147`. Do not replace the bundled
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Hooman1996/Attention-Enhanced-YOLOv8n-Fire-Smoke-Detection.git
-cd Attention-Enhanced-YOLOv8n-Fire-Smoke-Detection
+git clone https://github.com/NSF-Hawaii-Wildfire/Smoke-Detection.git
+cd Smoke-Detection
 ```
 
 ### 2. Create a Python 3.10 environment
@@ -636,4 +636,4 @@ The full D-Fire dataset is not bundled with this repository. The displayed D-Fir
 
 ## Support
 
-For reproducible bug reports, open a [GitHub issue](https://github.com/Hooman1996/Attention-Enhanced-YOLOv8n-Fire-Smoke-Detection/issues) and include the model YAML, command, operating system, Python/PyTorch/CUDA versions, GPU, and complete traceback.
+For reproducible bug reports, open a [GitHub issue](https://github.com/NSF-Hawaii-Wildfire/Smoke-Detection/issues) and include the model YAML, command, operating system, Python/PyTorch/CUDA versions, GPU, and complete traceback.
